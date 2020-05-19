@@ -1,0 +1,374 @@
+           1.Hafta           
+  Kayserispor  -  Sivasspor
+  ÇaykurRizespor  -  Ankaragücü
+  Bursaspor  -  Fenerbahçe
+  BÞBErzurumspor  -  Trabzonspor
+  AtikerKonyaspor  -  Galatasaray
+  Akhisarspor  -  Beþiktaþ
+  Göztepe  -  AytemizAlanyaspor
+  YeniMalatyaspor  -  MedipolBaþakþehir
+  Kasýmpaþa  -  Antalyaspor
+
+           2.Hafta           
+  ÇaykurRizespor  -  Kayserispor
+  Sivasspor  -  Bursaspor
+  Ankaragücü  -  BÞBErzurumspor
+  Fenerbahçe  -  AtikerKonyaspor
+  Trabzonspor  -  Akhisarspor
+  Galatasaray  -  Göztepe
+  Beþiktaþ  -  YeniMalatyaspor
+  AytemizAlanyaspor  -  Kasýmpaþa
+  MedipolBaþakþehir  -  Antalyaspor
+
+           3.Hafta           
+  Kayserispor  -  Bursaspor
+  BÞBErzurumspor  -  ÇaykurRizespor
+  AtikerKonyaspor  -  Sivasspor
+  Akhisarspor  -  Ankaragücü
+  AtikerKonyaspor  -  Fenerbahçe
+  Göztepe  -  Trabzonspor
+  YeniMalatyaspor  -  Galatasaray
+  Kasýmpaþa  -  Beþiktaþ
+  Antalyaspor  -  AytemizAlanyaspor
+
+           4.Hafta           
+  BÞBErzurumspor  -  Kayserispor
+  Bursaspor  -  AtikerKonyaspor
+  ÇaykurRizespor  -  Akhisarspor
+  Sivasspor  -  Göztepe
+  Ankaragücü  -  YeniMalatyaspor
+  Fenerbahçe  -  Kasýmpaþa
+  Trabzonspor  -  Antalyaspor
+  Galatasaray  -  MedipolBaþakþehir
+  Beþiktaþ  -  AytemizAlanyaspor
+
+           5.Hafta           
+  Kayserispor  -  AtikerKonyaspor
+  Akhisarspor  -  BÞBErzurumspor
+  Göztepe  -  Bursaspor
+  YeniMalatyaspor  -  ÇaykurRizespor
+  Kasýmpaþa  -  Sivasspor
+  Antalyaspor  -  Ankaragücü
+  MedipolBaþakþehir  -  Fenerbahçe
+  AytemizAlanyaspor  -  Trabzonspor
+  Beþiktaþ  -  Galatasaray
+
+           6.Hafta           
+  Akhisarspor  -  Kayserispor
+  AtikerKonyaspor  -  Göztepe
+  BÞBErzurumspor  -  YeniMalatyaspor
+  Bursaspor  -  Kasýmpaþa
+  ÇaykurRizespor  -  Antalyaspor
+  Sivasspor  -  MedipolBaþakþehir
+  Ankaragücü  -  AytemizAlanyaspor
+  Fenerbahçe  -  Beþiktaþ
+  Trabzonspor  -  Galatasaray
+
+           7.Hafta           
+  Kayserispor  -  Göztepe
+  YeniMalatyaspor  -  Akhisarspor
+  Kasýmpaþa  -  AtikerKonyaspor
+  Antalyaspor  -  BÞBErzurumspor
+  MedipolBaþakþehir  -  Bursaspor
+  AytemizAlanyaspor  -  ÇaykurRizespor
+  Beþiktaþ  -  Sivasspor
+  Galatasaray  -  Ankaragücü
+  Trabzonspor  -  Fenerbahçe
+
+           8.Hafta           
+  MedipolBaþakþehir  -  Kayserispor
+  Antalyaspor  -  AytemizAlanyaspor
+  Kasýmpaþa  -  Beþiktaþ
+  YeniMalatyaspor  -  Galatasaray
+  Göztepe  -  Trabzonspor
+  Akhisarspor  -  Fenerbahçe
+  AtikerKonyaspor  -  Ankaragücü
+  BÞBErzurumspor  -  Sivasspor
+  Bursaspor  -  ÇaykurRizespor
+
+           9.Hafta           
+  Kayserispor  -  Kasýmpaþa
+  Antalyaspor  -  YeniMalatyaspor
+  MedipolBaþakþehir  -  Göztepe
+  AytemizAlanyaspor  -  Akhisarspor
+  Beþiktaþ  -  AtikerKonyaspor
+  Galatasaray  -  BÞBErzurumspor
+  Trabzonspor  -  Bursaspor
+  Fenerbahçe  -  ÇaykurRizespor
+  Ankaragücü  -  Sivasspor
+
+           10.Hafta           
+  Antalyaspor  -  Kayserispor
+  Kasýmpaþa  -  MedipolBaþakþehir
+  YeniMalatyaspor  -  AytemizAlanyaspor
+  Göztepe  -  Beþiktaþ
+  Akhisarspor  -  Galatasaray
+  AtikerKonyaspor  -  Trabzonspor
+  BÞBErzurumspor  -  Fenerbahçe
+  Bursaspor  -  Ankaragücü
+  ÇaykurRizespor  -  Sivasspor
+
+           11.Hafta           
+  Kayserispor  -  MedipolBaþakþehir
+  AytemizAlanyaspor  -  Antalyaspor
+  Beþiktaþ  -  Kasýmpaþa
+  Galatasaray  -  YeniMalatyaspor
+  Trabzonspor  -  Göztepe
+  Fenerbahçe  -  Akhisarspor
+  Ankaragücü  -  AtikerKonyaspor
+  Sivasspor  -  BÞBErzurumspor
+  ÇaykurRizespor  -  Bursaspor
+
+           12.Hafta           
+  AytemizAlanyaspor  -  Kayserispor
+  MedipolBaþakþehir  -  Beþiktaþ
+  Antalyaspor  -  Galatasaray
+  Kasýmpaþa  -  Trabzonspor
+  YeniMalatyaspor  -  Fenerbahçe
+  Göztepe  -  Ankaragücü
+  Akhisarspor  -  Sivasspor
+  AtikerKonyaspor  -  ÇaykurRizespor
+  BÞBErzurumspor  -  Bursaspor
+
+           13.Hafta           
+  Kayserispor  -  Beþiktaþ
+  Galatasaray  -  AytemizAlanyaspor
+  Trabzonspor  -  MedipolBaþakþehir
+  Fenerbahçe  -  Antalyaspor
+  Ankaragücü  -  Kasýmpaþa
+  Sivasspor  -  YeniMalatyaspor
+  ÇaykurRizespor  -  Göztepe
+  Bursaspor  -  Akhisarspor
+  BÞBErzurumspor  -  AtikerKonyaspor
+
+           14.Hafta           
+  Galatasaray  -  Kayserispor
+  Beþiktaþ  -  Trabzonspor
+  AytemizAlanyaspor  -  Fenerbahçe
+  MedipolBaþakþehir  -  Ankaragücü
+  Antalyaspor  -  Sivasspor
+  Kasýmpaþa  -  ÇaykurRizespor
+  YeniMalatyaspor  -  Bursaspor
+  Göztepe  -  BÞBErzurumspor
+  Akhisarspor  -  AtikerKonyaspor
+
+           15.Hafta           
+  Kayserispor  -  Trabzonspor
+  Fenerbahçe  -  Galatasaray
+  Ankaragücü  -  Beþiktaþ
+  Sivasspor  -  AytemizAlanyaspor
+  ÇaykurRizespor  -  MedipolBaþakþehir
+  Bursaspor  -  Antalyaspor
+  BÞBErzurumspor  -  Kasýmpaþa
+  AtikerKonyaspor  -  YeniMalatyaspor
+  Akhisarspor  -  Göztepe
+
+           16.Hafta           
+  Fenerbahçe  -  Kayserispor
+  Trabzonspor  -  Ankaragücü
+  Galatasaray  -  Sivasspor
+  Beþiktaþ  -  ÇaykurRizespor
+  AytemizAlanyaspor  -  Bursaspor
+  MedipolBaþakþehir  -  BÞBErzurumspor
+  Antalyaspor  -  AtikerKonyaspor
+  Kasýmpaþa  -  Akhisarspor
+  YeniMalatyaspor  -  Göztepe
+
+           17.Hafta           
+  Kayserispor  -  Ankaragücü
+  Sivasspor  -  Fenerbahçe
+  ÇaykurRizespor  -  Trabzonspor
+  Bursaspor  -  Galatasaray
+  BÞBErzurumspor  -  Beþiktaþ
+  AtikerKonyaspor  -  AytemizAlanyaspor
+  Akhisarspor  -  MedipolBaþakþehir
+  Göztepe  -  Antalyaspor
+  YeniMalatyaspor  -  Kasýmpaþa
+
+           18.Hafta           
+  Sivasspor  -  Kayserispor
+  Ankaragücü  -  ÇaykurRizespor
+  Fenerbahçe  -  Bursaspor
+  Trabzonspor  -  BÞBErzurumspor
+  Galatasaray  -  AtikerKonyaspor
+  Beþiktaþ  -  Akhisarspor
+  AytemizAlanyaspor  -  Göztepe
+  MedipolBaþakþehir  -  YeniMalatyaspor
+  Antalyaspor  -  Kasýmpaþa
+
+           19.Hafta           
+  Kayserispor  -  ÇaykurRizespor
+  Bursaspor  -  Sivasspor
+  BÞBErzurumspor  -  Ankaragücü
+  AtikerKonyaspor  -  Fenerbahçe
+  Akhisarspor  -  Trabzonspor
+  Göztepe  -  Galatasaray
+  YeniMalatyaspor  -  Beþiktaþ
+  Kasýmpaþa  -  AytemizAlanyaspor
+  Antalyaspor  -  MedipolBaþakþehir
+
+           20.Hafta           
+  Bursaspor  -  Kayserispor
+  ÇaykurRizespor  -  BÞBErzurumspor
+  Sivasspor  -  AtikerKonyaspor
+  Ankaragücü  -  Akhisarspor
+  Fenerbahçe  -  Göztepe
+  Trabzonspor  -  YeniMalatyaspor
+  Galatasaray  -  Kasýmpaþa
+  Beþiktaþ  -  Antalyaspor
+  AytemizAlanyaspor  -  MedipolBaþakþehir
+
+           21.Hafta           
+  Kayserispor  -  BÞBErzurumspor
+  AtikerKonyaspor  -  Bursaspor
+  Akhisarspor  -  ÇaykurRizespor
+  Göztepe  -  Sivasspor
+  YeniMalatyaspor  -  Ankaragücü
+  Kasýmpaþa  -  Fenerbahçe
+  Antalyaspor  -  Trabzonspor
+  MedipolBaþakþehir  -  Galatasaray
+  AytemizAlanyaspor  -  Beþiktaþ
+
+           22.Hafta           
+  AtikerKonyaspor  -  Kayserispor
+  BÞBErzurumspor  -  Akhisarspor
+  Bursaspor  -  Göztepe
+  ÇaykurRizespor  -  YeniMalatyaspor
+  Sivasspor  -  Kasýmpaþa
+  Ankaragücü  -  Antalyaspor
+  Fenerbahçe  -  MedipolBaþakþehir
+  Trabzonspor  -  AytemizAlanyaspor
+  Galatasaray  -  Beþiktaþ
+
+           23.Hafta           
+  Kayserispor  -  Akhisarspor
+  Göztepe  -  AtikerKonyaspor
+  YeniMalatyaspor  -  BÞBErzurumspor
+  Kasýmpaþa  -  Bursaspor
+  Antalyaspor  -  ÇaykurRizespor
+  MedipolBaþakþehir  -  Sivasspor
+  AytemizAlanyaspor  -  Ankaragücü
+  Beþiktaþ  -  Fenerbahçe
+  Galatasaray  -  Trabzonspor
+
+           24.Hafta           
+  Göztepe  -  Kayserispor
+  Akhisarspor  -  YeniMalatyaspor
+  AtikerKonyaspor  -  Kasýmpaþa
+  BÞBErzurumspor  -  Antalyaspor
+  Bursaspor  -  MedipolBaþakþehir
+  ÇaykurRizespor  -  AytemizAlanyaspor
+  Sivasspor  -  Beþiktaþ
+  Ankaragücü  -  Galatasaray
+  Fenerbahçe  -  Trabzonspor
+
+           25.Hafta           
+  Kayserispor  -  YeniMalatyaspor
+  Kasýmpaþa  -  Göztepe
+  Antalyaspor  -  Akhisarspor
+  MedipolBaþakþehir  -  AtikerKonyaspor
+  AytemizAlanyaspor  -  BÞBErzurumspor
+  Beþiktaþ  -  Bursaspor
+  Galatasaray  -  ÇaykurRizespor
+  Trabzonspor  -  Sivasspor
+  Fenerbahçe  -  Ankaragücü
+
+           26.Hafta           
+  Kasýmpaþa  -  Kayserispor
+  YeniMalatyaspor  -  Antalyaspor
+  Göztepe  -  MedipolBaþakþehir
+  Akhisarspor  -  AytemizAlanyaspor
+  AtikerKonyaspor  -  Beþiktaþ
+  BÞBErzurumspor  -  Galatasaray
+  Bursaspor  -  Trabzonspor
+  ÇaykurRizespor  -  Fenerbahçe
+  Sivasspor  -  Ankaragücü
+
+           27.Hafta           
+  Kayserispor  -  Antalyaspor
+  MedipolBaþakþehir  -  Kasýmpaþa
+  AytemizAlanyaspor  -  YeniMalatyaspor
+  Beþiktaþ  -  Göztepe
+  Galatasaray  -  Akhisarspor
+  Trabzonspor  -  AtikerKonyaspor
+  Fenerbahçe  -  BÞBErzurumspor
+  Ankaragücü  -  Bursaspor
+  Sivasspor  -  ÇaykurRizespor
+
+           28.Hafta           
+  MedipolBaþakþehir  -  Kayserispor
+  Antalyaspor  -  AytemizAlanyaspor
+  Kasýmpaþa  -  Beþiktaþ
+  YeniMalatyaspor  -  Galatasaray
+  Göztepe  -  Trabzonspor
+  Akhisarspor  -  Fenerbahçe
+  AtikerKonyaspor  -  Ankaragücü
+  BÞBErzurumspor  -  Sivasspor
+  Bursaspor  -  ÇaykurRizespor
+
+           29.Hafta           
+  Kayserispor  -  AytemizAlanyaspor
+  Beþiktaþ  -  MedipolBaþakþehir
+  Galatasaray  -  Antalyaspor
+  Trabzonspor  -  Kasýmpaþa
+  Fenerbahçe  -  YeniMalatyaspor
+  Ankaragücü  -  Göztepe
+  Sivasspor  -  Akhisarspor
+  ÇaykurRizespor  -  AtikerKonyaspor
+  Bursaspor  -  BÞBErzurumspor
+
+           30.Hafta           
+  Beþiktaþ  -  Kayserispor
+  AytemizAlanyaspor  -  Galatasaray
+  MedipolBaþakþehir  -  Trabzonspor
+  Antalyaspor  -  Fenerbahçe
+  Kasýmpaþa  -  Ankaragücü
+  YeniMalatyaspor  -  Sivasspor
+  Göztepe  -  ÇaykurRizespor
+  Akhisarspor  -  Bursaspor
+  AtikerKonyaspor  -  BÞBErzurumspor
+
+           31.Hafta           
+  Kayserispor  -  Galatasaray
+  Trabzonspor  -  Beþiktaþ
+  Fenerbahçe  -  AytemizAlanyaspor
+  Ankaragücü  -  MedipolBaþakþehir
+  Sivasspor  -  Antalyaspor
+  ÇaykurRizespor  -  Kasýmpaþa
+  Bursaspor  -  YeniMalatyaspor
+  BÞBErzurumspor  -  Göztepe
+  AtikerKonyaspor  -  Akhisarspor
+
+           32.Hafta           
+  Trabzonspor  -  Kayserispor
+  Galatasaray  -  Fenerbahçe
+  Beþiktaþ  -  Ankaragücü
+  AytemizAlanyaspor  -  Sivasspor
+  MedipolBaþakþehir  -  ÇaykurRizespor
+  Antalyaspor  -  Bursaspor
+  Kasýmpaþa  -  BÞBErzurumspor
+  YeniMalatyaspor  -  AtikerKonyaspor
+  Göztepe  -  Akhisarspor
+
+           33.Hafta           
+  Kayserispor  -  Ankaragücü
+  Ankaragücü  -  Fenerbahçe
+  Sivasspor  -  Trabzonspor
+  ÇaykurRizespor  -  Galatasaray
+  Bursaspor  -  Beþiktaþ
+  BÞBErzurumspor  -  AytemizAlanyaspor
+  AtikerKonyaspor  -  MedipolBaþakþehir
+  Akhisarspor  -  Antalyaspor
+  Göztepe  -  Kasýmpaþa
+
+           34.Hafta           
+  Ankaragücü  -  Kayserispor
+  Fenerbahçe  -  Sivasspor
+  Trabzonspor  -  ÇaykurRizespor
+  Galatasaray  -  Bursaspor
+  Beþiktaþ  -  BÞBErzurumspor
+  AytemizAlanyaspor  -  AtikerKonyaspor
+  MedipolBaþakþehir  -  Akhisarspor
+  Antalyaspor  -  Göztepe
+  Kasýmpaþa  -  YeniMalatyaspor
+
