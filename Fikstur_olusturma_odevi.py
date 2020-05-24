@@ -88,11 +88,11 @@ with open('Fikstur.txt','w',encoding="utf-8") as file2:  #fikstur.txt dosyasına
     + "  " + raslistem[6] + "  -  " + raslistem[2] + "\n"
     + "  " + raslistem[8] + "  -  " + raslistem[1] + "\n"
     + "  " + raslistem[10] + "  -  " + raslistem[3] + "\n"
-    + "  " + raslistem[8] + "  -  " + raslistem[5] + "\n"
-    + "  " + raslistem[12] + "  -  " + raslistem[7] + "\n"
-    + "  " + raslistem[14] + "  -  " + raslistem[9] + "\n"
-    + "  " + raslistem[16] + "  -  " + raslistem[11] + "\n"
-    + "  " + raslistem[17] + "  -  " + raslistem[13] + "\n\n"
+    + "  " + raslistem[12] + "  -  " + raslistem[5] + "\n"
+    + "  " + raslistem[14] + "  -  " + raslistem[7] + "\n"
+    + "  " + raslistem[16] + "  -  " + raslistem[9] + "\n"
+    + "  " + raslistem[17] + "  -  " + raslistem[11] + "\n"
+    + "  " + raslistem[15] + "  -  " + raslistem[13] + "\n\n"
 
 
     "           4.Hafta           \n" + "  " +
